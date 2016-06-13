@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am a computer science and math major at UT-Austin currentally. Instead of doing internships, I am taking computer Science classes this summer so that I do not have to be a part time student in Fall of 2017 and to further advance my knowledge in Computer Science
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rhodesbrendon95@gmail.com](mailto:rhodesbrendon95@gmail.com)

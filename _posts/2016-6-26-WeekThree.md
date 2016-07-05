@@ -26,7 +26,7 @@ I'm starting to get the format of the quizzes down, so that's going to be a good
 
 **pick-of-the-week**
 
-The cobra effect and pasting your password
- **[Click here for Article](https://www.troyhunt.com/the-cobra-effect-that-is-disabling/)**
+Saw this site on hacker news to practice PostgreSQL
+ **[Click here for Article](https://pgexercises.com/gettingstarted.html)**
 
 

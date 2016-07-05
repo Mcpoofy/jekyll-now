@@ -1,0 +1,32 @@
+---
+layout: post
+title: What happened from June 26th to July 3rd
+---
+
+
+**What did you do this past week?**
+
+This past week I took the midterm or middle test for the class, where it was coding python classes and writing functions using the python and methods we learned in class. Looking at the rubric, it seems like there's little room for partial credit, which could make or break my score. I also started again working on the project, which
+is pretty time consuming. I might be doing too much for the first step of the project though. I also went home for the three day weekend, one of the reasons this blog post is currentally late, and saw my family. I worked on the database remotely, and through sshing, which made me appreciate again working on the lab machines provided by the school
+
+**What's in your way?**
+
+Well we our group has the first part of the project due tomorrow, and I'm not exactly sure how much we have done exactly or have left because I haven't been able to meet up with them and talk to them beside slack communication. What's holding me back right now is the fact I am not used to using flask, python, angularjs, etc. at all and in web dev environment
+so it will take some getting used too. Also I'm not used to big group projects, i.e more then three or four people so I think its hard to communicate clearly about what's being done.
+
+**What will you do next week?**
+
+Well, this week it's mainly continueing to work on the project and to finish up the other computer science class I'm taking, intro to security, so it will be a pretty time consuming week. Luckily, this class only meets one day so that gives more time outside of class to work on assignments and prepare. 
+
+**Experience in the class**
+
+The quizzes are starting to get a lot better, and are finally up to par for what I want out of them. The presentation or talk that Professor Downing set up with the outside company Pariveda was kind of boring, but that's just because
+I have seen a lot of those talks in the past and they generally follow the same generic powerpoint slide format, but other then that it was a pretty good week.
+
+
+**pick-of-the-week**
+
+Saw this site on hacker news to practice PostgreSQL
+ **[Click here for Article](https://pgexercises.com/gettingstarted.html)**
+
+

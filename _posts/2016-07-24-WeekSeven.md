@@ -35,7 +35,7 @@ classes projects are like a bell curve, the projects start of easy and then get 
 I would warn you, that if you are busy a large amount of time or do not have a large amount of time to commit, you shouldn't take this class.
 While the easy projects are doable in a "small" amount of time, the larger and harder projects require a large amount of time and the majority of your 
 time while you are working on them, and they are also group based. Several members of my group were working on other projects during this time and you do not want to do this,
-you end up working 24/7 to complete both projects on time, and have little time to do anything else. 
+you end up working 24/7 to complete everything on time, and have little time to do anything else. 
 
 **End**
 Besides that, the projects were pretty interesting and you learn a large amount of information from Downing and the projects, and I would

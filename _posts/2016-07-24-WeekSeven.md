@@ -27,7 +27,7 @@ and I didn't have that many problems the lectures or going to class, it was very
 There are two main things outside of class, the projects and the readings. I'll get right to the punch, the readings take a decent amount of time
 to read and complete and are not a big focus of the class from a grade perspective ( the readings aren't on the test or projects) . There were, maybe, 1-2 questions per week (so 1-2 out of 9-10 questions) about the readings
 on the quizzes, and I would also say some of them are guessable. So, if you don't like reading or don't have the time for the readings, you could
-probably skip them all with a small effect on your grade if that is preventing you from taking the class.
+probably skip them all with a small effect on your grade if that is preventing you from taking the class, but you are missing out on a lot if you do not read.
 
 The projects are really weird, they are all worth the same but each project has a very large difference in difficulty and easiness. I would say this
 classes projects are like a bell curve, the projects start of easy and then get very hard but then end with an easier project. 

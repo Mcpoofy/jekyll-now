@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What happened from June 13th to June 19th
+title: What happened from July 17th to July 24th
 ---
 
 

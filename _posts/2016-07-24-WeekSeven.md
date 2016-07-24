@@ -38,6 +38,7 @@ time while you are working on them, and they are also group based. Several membe
 you end up working 24/7 to complete everything on time, and have little time to do anything else. 
 
 **End**
+
 Besides that, the projects were pretty interesting and you learn a large amount of information from Downing and the projects, and I would
 recommend taking this class if you have the time and energy to spare. 
 

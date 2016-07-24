@@ -22,6 +22,8 @@ a grade, I wouldn't recommend taking this class. The lectures themselves were pr
 enough so that you don't get bored or keep staring at a clock to get through the class. Overall, the in class portion was pretty good
 and I didn't have that many problems the lectures or going to class, it was very informative. 
 
+Downing also has guest speakers from companies come and talk for a while on several occasions about there experiences, I personally did not like them but many people feel different about them.
+
 **Out of class portion**
 
 There are two main things outside of class, the projects and the readings. I'll get right to the punch, the readings take a decent amount of time

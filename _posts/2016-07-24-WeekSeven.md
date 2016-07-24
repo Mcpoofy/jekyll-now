@@ -16,7 +16,7 @@ about the quizzes, or daily quizzes that take up about 18% of your grade for the
 The first is that the quizzes are for five minutes at the beginning of class. Because I didn't have a class or anything before this, it wasn't a problem
 with missing quizzes, but I saw regularly there were people who ran out of time or missed the quizzes because they didn't make it to class in time, so consider
 that. The second part is that the quizzes and tests are pretty challenging and rigourous. Based on this class, the average on the first test 
-and quizzes were around 70% or lower for both, and this is not including the last test. They are also harder, I would say, then some of the
+and all of the quizzes were around 70% or lower for both, and this is not including the last test. They are also harder, I would say, then some of the
 material he goes over in class, so you have to take that into consideration. If you want a class that is an easy A or are taking this for 
 a grade, I wouldn't recommend taking this class. The lectures themselves were pretty interesting, I would say that most of them are interesting
 enough so that you don't get bored or keep staring at a clock to get through the class. Overall, the in class portion was pretty good

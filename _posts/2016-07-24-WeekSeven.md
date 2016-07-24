@@ -9,6 +9,7 @@ title: What happened from June 13th to June 19th
 I'll split this section into two portions, the in class portion and the out of class portion, i.e projects, readings, etc.
 
 **In class**
+
 The first part of the class that I would like to talk about is the lecture part of the class. If you didn't know, because it was a summer
 class, we met three times a week for an hour and 45 minutes a class, for nine weeks. Now, the first thing I have about the class are 
 about the quizzes, or daily quizzes that take up about 18% of your grade for the class. There are two main things about the quizzes.
@@ -22,6 +23,7 @@ enough so that you don't get bored or keep staring at a clock to get through the
 and I didn't have that many problems the lectures or going to class, it was very informative. 
 
 **Out of class portion**
+
 There are two main things outside of class, the projects and the readings. I'll get right to the punch, the readings take a decent amount of time
 to read and complete and are not a big focus of the class from a grade perspective ( the readings aren't on the test or projects) . There were, maybe, 1-2 questions per week (so 1-2 out of 9-10 questions) about the readings
 on the quizzes, and I would also say some of them are guessable. So, if you don't like reading or don't have the time for the readings, you could
